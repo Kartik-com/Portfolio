@@ -1,15 +1,13 @@
 # Portfolio
 Certainly! Here's the template with emojis added for a more engaging touch:
 
-### 👩‍💻 [Your Full Name]
+###  Hello 👋  I'm Kartik Shingade 
 #### Software Engineering Student
 
-[📸 Include a professional photo of yourself]
-
 **Contact Information:**
-- Email: [Your Email] 📧
-- LinkedIn: [Your LinkedIn Profile] 🔗
-- GitHub: [Your GitHub Profile] 🐙
+- Email: shingadekartik1@gmail.com 📧
+- LinkedIn: https://www.linkedin.com/in/kartik-shingade-373309249/ 🔗
+- GitHub: https://github.com/Kartik-com 🐙
 - Portfolio Website: [Your Portfolio Website, if applicable] 🌐
 
 ---
