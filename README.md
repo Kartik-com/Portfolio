@@ -59,61 +59,23 @@ Savitribai Phule Pune University , Pune , Maharashtra
 
 ---
 
-### 💼 Internship/Work Experience
-
-#### [Company Name], [Location] - [Position]
-
-- Duration: [Start Date] - [End Date]
-- Description: Summarize your responsibilities, projects, and achievements during the internship or work experience.
-
----
-
-### 📜 Certifications
-
-- [Certification Name], [Issuing Organization], [Date]
-
----
-
 ### 🏆 Hackathons and Competitions
 
-- [Event Name], [Date]: Brief description of your participation and any awards or recognitions.
+- TechOrion2023 , Oct 2023 : The competition Organised by the IIT Bombay, mainly the zolans for the IIT TechFest 2023. I have actively participated in it and qualified for meshmerise finals.
 
----
+- Smart India Hackthons 2023 ( SIH 2023 ), Oct 2023 : Me and my team participated here from besides of collge , we have given solution on the vegetation scanning from the space using the satllites . We have worked on the image segmentation type of tenchnology for see the growth of vegetation.
+
+- Hacktoberfest 2023 , Oct 2023 : Actively participated in Hacktoberfest 2023, making impactful contributions to open-source projects with four successful pull requests on GitHub.
+
 
 ### ✍️ Blog/Technical Writing
 
-- [Title], [Date]: Provide a link or summary of any technical blogs or articles you have written.
+- Artificial Neuron on Silicone Chips, Nov 4 2023: https://www.linkedin.com/posts/kartik-shingade-373309249_artificial-neuron-on-silicone-chips-activity-7129163558478594048-v0kO?utm_source=share&utm_medium=member_desktop
 
 ---
 
 ### 🎉 Extracurricular Activities
 
-- [Club/Activity Name], [Role], [Date]: Describe any relevant extracurricular involvement.
+- Meshmerize, Team Leader and Programming , Oct 28 2023:  Recently participated in a competition in Bangalore. 🚀That is organized by IIT Bombay Techfest Bangalore Zonal . It was an amazing experience.
 
----
-
-### 📜 References
-
-Available upon request.
-
----
-
-### 🌟 [Optional] Testimonials
-
-Include any positive feedback or testimonials from colleagues, professors, or project collaborators.
-
----
-
-### 🚀 [Optional] Personal Projects
-
-If you have personal projects that demonstrate your skills or interests, consider including them in a separate section.
-
----
-
-### 🔗 [Optional] Additional Links
-
-Include links to any additional profiles, such as a personal blog or relevant social media accounts.
-
----
-
-Feel free to adjust the emojis based on your personal style and preferences. The goal is to make your portfolio visually appealing and reflect your personality.
+- Basketball , Team Member ( Maharashtra ) , Mar 2019 : Completed my nationals in Basketball from team of Maharashtra. 
