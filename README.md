@@ -23,7 +23,7 @@ A passionate and dedicated software engineering student seeking opportunities to
 
 Savitribai Phule Pune University , Pune , Maharashtra 
 
-*Expected Graduation Date: 2025
+Expected Graduation Date: 2025
 
 ---
 
