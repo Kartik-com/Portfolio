@@ -20,7 +20,9 @@ A passionate and dedicated software engineering student seeking opportunities to
 ### 📚 Education
 
 **Bachelor of Science in Computer Engineering**
+
 Savitribai Phule Pune University , Pune , Maharashtra 
+
 *Expected Graduation Date: 2025
 
 ---
@@ -47,10 +49,12 @@ Savitribai Phule Pune University , Pune , Maharashtra
 - Technologies Used: HTML , CSS , JS , MySQL and Visual Studio Code.
 - GitHub Repository: [Link to the project repository]
 
-#### [Project Name 2]
+#### Human Pose Detection
 
-- Description: Briefly describe the project, its purpose, and your role in it.
-- Technologies Used: List the languages, frameworks, and tools used.
+- Description: The Human Pose Detection project with Brainy Pi demonstrates the fusion of hardware and software technologies to create an intelligent system 
+     capable of understanding and interpreting human body poses. It opens doors to a range of applications, from improving fitness routines to enhancing human- 
+     computer interaction in various domains.
+- Technologies Used: Python , Brainy Pi Scripting Language , OpenCV (Python and C++) , Brainy Pi and Camera module compatible with Brainy Pi.
 - GitHub Repository: [Link to the project repository]
 
 ---
