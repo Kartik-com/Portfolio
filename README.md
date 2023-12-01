@@ -1,8 +1,7 @@
 # Portfolio
-Certainly! Here's the template with emojis added for a more engaging touch:
 
 ###  Hello 👋  I'm Kartik Shingade 
-#### Software Engineering Student
+#### Computer Engineering Student
 
 **Contact Information:**
 - Email: shingadekartik1@gmail.com 📧
@@ -14,23 +13,23 @@ Certainly! Here's the template with emojis added for a more engaging touch:
 
 ### 🚀 Objective
 
-A passionate and dedicated software engineering student seeking opportunities to apply and enhance technical skills in a dynamic and collaborative environment. Eager to contribute to real-world projects, learn from experienced professionals, and continuously grow as a software engineer.
+A passionate and dedicated software engineering student seeking opportunities to apply and enhance technical skills in a dynamic and collaborative environment. Eager to contribute to real-world projects, learn from experienced professionals, and continuously grow as a software engineer. Particularly interested in actively participating in open-source communities to leverage the power of collaboration, contribute to meaningful projects, and make a positive impact on the software development ecosystem.
 
 ---
 
 ### 📚 Education
 
-**Bachelor of Science in Software Engineering**
-[University Name], [City, State]
-*Expected Graduation Date: [Month Year]*
+**Bachelor of Science in Computer Engineering**
+Savitribai Phule Pune University , Pune , Maharashtra 
+*Expected Graduation Date: 2025
 
 ---
 
 ### 💡 Skills
 
-- Programming Languages: [List languages you are proficient in]
-- Web Development: [List relevant frameworks, tools, etc.]
-- Database Management: [List databases and tools you are familiar with]
+- Programming Languages: Java , JavaScript , Python , C++ , C 
+- Web Development: HTML , CSS , JS , Tailwind CSS 
+- Database Management: MySQL
 - Software Design and Architecture
 - Problem Solving and Algorithm Development
 - Version Control: Git, GitHub
@@ -40,10 +39,12 @@ A passionate and dedicated software engineering student seeking opportunities to
 
 ### 🛠️ Projects
 
-#### [Project Name 1]
+#### Smart College Application
 
-- Description: Briefly describe the project, its purpose, and your role in it.
-- Technologies Used: List the languages, frameworks, and tools used.
+- Description: Smart Collge Application is the website where the college students can search for their post graduate universities and colleges in world wide so 
+     they get the best college for their PG . Website has list of colleges based on there ranking in world and the recent opening for various courses, I am team 
+     leader of my team and played main role of programming also I gathered information about various college for this.
+- Technologies Used: HTML , CSS , JS , MySQL and Visual Studio Code.
 - GitHub Repository: [Link to the project repository]
 
 #### [Project Name 2]
