@@ -7,7 +7,7 @@
 - Email: shingadekartik1@gmail.com 📧
 - LinkedIn: https://www.linkedin.com/in/kartik-shingade-373309249/ 🔗
 - GitHub: https://github.com/Kartik-com 🐙
-- Portfolio Website: [Your Portfolio Website, if applicable] 🌐
+- Portfolio Website: https://github.com/Kartik-com/Portfolio.git 🌐
 
 ---
 
