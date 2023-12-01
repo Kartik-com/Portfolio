@@ -67,6 +67,7 @@ Expected Graduation Date: 2025
 
 - Hacktoberfest 2023 , Oct 2023 : Actively participated in Hacktoberfest 2023, making impactful contributions to open-source projects with four successful pull requests on GitHub.
 
+---
 
 ### ✍️ Blog/Technical Writing
 
