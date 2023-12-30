@@ -76,6 +76,6 @@ Expected Graduation Date: 2025
 
 ### 🎉 Extracurricular Activities
 
-- Meshmerize, Team Leader and Programming , Oct 28 2023:  Recently participated in a competition in Bangalore. 🚀That is organized by IIT Bombay Techfest Bangalore Zonal . It was an amazing experience.
+- Meshmerize, Team Leader and Programmer, Oct 28, 2023: Recently participated in a competition in Bangalore organized by IIT Bombay Techfest Bangalore Zonal. 🚀 It was an amazing experience.
 
-- Basketball , Team Member ( Maharashtra ) , Mar 2019 : Completed my nationals in Basketball from team of Maharashtra. 
+- Basketball, Team Member (Maharashtra), Mar 2019: Completed my nationals in Basketball as a part of the Maharashtra team.
