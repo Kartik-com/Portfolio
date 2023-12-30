@@ -51,9 +51,8 @@ Expected Graduation Date: 2025
 
 #### Human Pose Detection
 
-- Description: The Human Pose Detection project with Brainy Pi demonstrates the fusion of hardware and software technologies to create an intelligent system 
-     capable of understanding and interpreting human body poses. It opens doors to a range of applications, from improving fitness routines to enhancing human- 
-     computer interaction in various domains.
+- Description: The Human Pose Detection project with Brainy Pi showcases the seamless integration of hardware and software technologies to create an intelligent system capable of understanding and interpreting 
+  human body poses. This innovation opens doors to a myriad of applications, ranging from optimizing fitness routines to advancing human-computer interaction in various domains.
 - Technologies Used: Python , Brainy Pi Scripting Language , OpenCV (Python and C++) , Brainy Pi and Camera module compatible with Brainy Pi.
 - GitHub Repository: [Link to the project repository]
 
