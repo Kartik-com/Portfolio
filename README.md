@@ -43,9 +43,9 @@ Expected Graduation Date: 2025
 
 #### Smart College Application
 
-- Description: Smart Collge Application is the website where the college students can search for their post graduate universities and colleges in world wide so 
-     they get the best college for their PG . Website has list of colleges based on there ranking in world and the recent opening for various courses, I am team 
-     leader of my team and played main role of programming also I gathered information about various college for this.
+- Description: Smart College Application is a website where college students can search for postgraduate universities and colleges worldwide, enabling them to find the best options for their PG studies. The 
+  website features a list of colleges ranked globally, along with information on recent openings for various courses. As the team leader, I played a pivotal role in programming and gathered information about 
+  various colleges.
 - Technologies Used: HTML , CSS , JS , MySQL and Visual Studio Code.
 - GitHub Repository: [Link to the project repository]
 
