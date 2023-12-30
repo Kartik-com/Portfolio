@@ -60,12 +60,12 @@ Expected Graduation Date: 2025
 
 ### 🏆 Hackathons and Competitions
 
-- TechOrion2023 , Oct 2023 : The competition Organised by the IIT Bombay, mainly the zolans for the IIT TechFest 2023. I have actively participated in it and qualified for meshmerise finals.
+- TechOrion2023, Oct 2023: The competition organized by IIT Bombay, mainly the Zolans for the IIT TechFest 2023. I actively participated in it and qualified for the Meshmerise finals.
 
-- Smart India Hackthons 2023 ( SIH 2023 ), Oct 2023 : Me and my team participated here from besides of collge , we have given solution on the vegetation scanning from the space using the satllites . We have worked on the image segmentation type of tenchnology for see the growth of vegetation.
+- Smart India Hackthons 2023 (SIH 2023), Oct 2023: My team and I participated in this event from our college. We provided a solution for vegetation scanning from space using satellites. We worked on image 
+  segmentation technology to monitor the growth of vegetation.
 
-- Hacktoberfest 2023 , Oct 2023 : Actively participated in Hacktoberfest 2023, making impactful contributions to open-source projects with four successful pull requests on GitHub.
-
+- Hacktoberfest 2023, Oct 2023: Actively participated in Hacktoberfest 2023, making impactful contributions to open-source projects with four successful pull requests on GitHub.
 ---
 
 ### ✍️ Blog/Technical Writing
