@@ -25,7 +25,7 @@ Savitribai Phule Pune University , Pune , Maharashtra
 
 Expected Graduation Date: 2025
 
-**Honors : **
+**Honors :**
 Artificial Intelligence & Machine Learning
 Savitribai Phule Pune University , Pune , Maharashtra 
 
